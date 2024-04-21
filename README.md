@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi, I'm Nadine and my interests lie in the field of data analysis and data science with Python.
 
-<!--
-**nadine-ma/nadine-ma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### My (programming) skills include, but are not limited to:
+- Python (PyTorch, Sklearn, SciPy, Matplotlib, Numpy, Pandas, Jupyter Notebook)
+- SQL
+- Microsoft Power BI
+- Java
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### The following projects can currently be found on my profile: 
+
+Data Analysis / Data Science projects:
+- [Thesis: Interdependency of Bias, Fairness and Prediction Instability in Graph-based Recommender Systems](https://github.com/nadine-ma/Thesis_interdependency_bias_fairness_instability_graph_recommenders) <-- Python
+- [Car sales exploration and price prediction](https://github.com/nadine-ma/Car_Sales_Exploration_Prediction) <-- Python
+
+
+These repositories have been created as part of university group projects:
+- [Web data integration project](https://github.com/nadine-ma/ds-wdi-project) <-- Java
+- [News recommender library](https://github.com/nadine-ma/nrslib) <-- Python
+
+
