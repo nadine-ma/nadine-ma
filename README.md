@@ -13,6 +13,7 @@
 Data Analysis / Data Science projects:
 - [Thesis: Interdependency of Bias, Fairness and Prediction Instability in Graph-based Recommender Systems](https://github.com/nadine-ma/Thesis_interdependency_bias_fairness_instability_graph_recommenders) <-- Python
 - [Car sales exploration and price prediction](https://github.com/nadine-ma/Car_Sales_Exploration_Prediction) <-- Python
+- [Credit card provider exploration and classification / regression tasks](https://github.com/nadine-ma/Credit_Card_Exploration_Prediction) <-- Python
 
 
 These repositories have been created as part of university group projects:
