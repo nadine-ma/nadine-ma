@@ -1,7 +1,7 @@
 ### Hi, I'm Nadine and my interests lie in the field of data analysis and data science with Python.
 
 #### My (programming) skills include, but are not limited to:
-- Python (PyTorch, Sklearn, SciPy, Matplotlib, Numpy, Pandas, Jupyter Notebook)
+- Python (PyTorch, Sklearn, SciPy, Keras, NLTK, Matplotlib, Seaborn, Numpy, Pandas, Jupyter Notebook, Hugging Face etc.)
 - SQL
 - Microsoft Power BI
 - Java
