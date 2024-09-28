@@ -13,6 +13,7 @@
 Data Science Master Thesis:
 - [Master's Thesis: Interdependency of Bias, Fairness and Prediction Instability in Graph-based Recommender Systems](https://github.com/nadine-ma/Thesis_interdependency_bias_fairness_instability_graph_recommenders) <-- Python
 
+
 Smaller Data Analysis / Data Science projects:
 - [Content-based movie recommendation using pretrained BERT model](https://github.com/nadine-ma/BERT_based_movie_recommendation) <-- Python
 - [Car sales exploration and price prediction](https://github.com/nadine-ma/Car_Sales_Exploration_Prediction) <-- Python
