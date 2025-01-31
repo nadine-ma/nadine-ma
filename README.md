@@ -1,4 +1,4 @@
-### Hi, I'm Nadine and my interests lie in the field of data analysis and data science with Python.
+### Hi, I'm Nadine and my interests lie in the field of data science and data analysis with Python.
 
 #### My (programming) skills include, but are not limited to:
 - Programming languages: Python, Java, SQL, HTML
