@@ -7,7 +7,7 @@
 
 
 
-#### The following projects can currently be found on my profile: 
+#### Some exemplary projects that can currently be found on my profile: 
 
 ##### Data Science Master Thesis:
 - [Master's Thesis: Interdependency of Bias, Fairness and Prediction Instability in Graph-based Recommender Systems](https://github.com/nadine-ma/Thesis_interdependency_bias_fairness_instability_graph_recommenders) <-- Python
